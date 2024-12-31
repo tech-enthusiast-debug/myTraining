@@ -1,0 +1,4 @@
+#Tue Dec 31 11:35:04 IST 2024
+base.0=/Users/apple/StudioProjects/my_training_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
